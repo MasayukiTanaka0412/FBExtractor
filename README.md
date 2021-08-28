@@ -17,6 +17,7 @@ I tried to creat an ebook (.epub) from my Facebook posts, but could not find a f
   
 1. [Register as a Facebook Developer](https://developers.facebook.com/docs/graph-api/get-started)
 1. Open the Graph Explorer tool
+1. Grant "user_posts" permission
 1. Generate an Access Token
 1. Set below environment variables
     1. user_token
