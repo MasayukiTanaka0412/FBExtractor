@@ -12,3 +12,15 @@ I tried to creat an ebook (.epub) from my Facebook posts, but could not find a f
 1. This tool generates a markdown file
 1. Convert markdown file into epub file use other service
     - ex. [でんでんコンバーター](https://conv.denshochan.com/)
+　　
+## How to use
+  
+1. [Register as a Facebook Developer](https://developers.facebook.com/docs/graph-api/get-started)
+1. Open the Graph Explorer tool
+1. Generate an Access Token
+1. Set below environment variables
+    1. user_token
+        - Which you get at step 3
+    1. outputfile
+        - Path and file name of output markdown file
+1. Run this code
