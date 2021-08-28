@@ -23,4 +23,4 @@ I tried to creat an ebook (.epub) from my Facebook posts, but could not find a f
         - Which you get at step 3
     1. outputfile
         - Path and file name of output markdown file
-1. Run this code
+1. Run Extractor.py
