@@ -12,6 +12,7 @@ I tried to creat an ebook (.epub) from my Facebook posts, but could not find a f
 1. This tool generates a markdown file
 1. Convert markdown file into epub file use other service
     - ex. [でんでんコンバーター](https://conv.denshochan.com/)
+    - [Markdown + Pandoc でお手軽に電子書籍を書く](https://qiita.com/sta/items/c88093b1b9da9c77b577)
 　　
 ## How to use
   
